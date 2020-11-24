@@ -1,0 +1,2 @@
+The 9th and final part of the project! The computer is now finished and has a stack, allowing functions calls with parameters to easily occur.
+Values can be pushed and popped onto the stack, and a set of instructions can be called to and returned from.
