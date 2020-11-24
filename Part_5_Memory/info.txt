@@ -1,0 +1,2 @@
+5th part of the project. Truth be told this is only one part of it, but not having updated this while I created the project, the second file is in a much different state now. 
+It will come back in part 10 as each part from here adds more to it (The Computer itself).
