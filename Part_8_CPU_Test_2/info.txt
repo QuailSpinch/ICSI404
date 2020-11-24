@@ -1,0 +1,3 @@
+The 8th part! Getting close to the full finished project. Unfortunately, the CPU has again been updated after this.
+What this part added, however, was the ability to jump and branch in our code! If you want to jump to the 3rd instruction,
+you can! If you want to go back five instructions of one value is less than another, you can! Loops and jumps are now possible.
