@@ -1,0 +1,1 @@
+Part 7, Assignment 8, of the project! We now have an assembler and can write in assembly code, rather than having to write in binary!
